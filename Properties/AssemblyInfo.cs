@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("GetSPORefreshToken")]
 [assembly: AssemblyCopyright("June Castillote")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("june.castillote@gmail.com")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
